@@ -1,10 +1,10 @@
 'use strict';
 
-const addButtons = {
-  toDo: document.querySelector('.add-button-to-do'),
-  inProgress: document.querySelector('.add-button-in-progress'),
-  completed: document.querySelector('.add-button-completed'),
-};
+// const addButtons = {
+//   toDo: document.querySelector('.add-button-to-do'),
+//   inProgress: document.querySelector('.add-button-in-progress'),
+//   completed: document.querySelector('.add-button-completed'),
+// };
 
 const containers = {
   toDo: document.querySelector('.to-do'),
